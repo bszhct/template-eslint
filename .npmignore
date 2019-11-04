@@ -1,0 +1,12 @@
+.idea
+.vscode
+*.iml
+.DS_Store
+npm-debug.log
+node_modules
+.eslintignore
+.eslintrc.js
+.gitignore
+CHANGELOG.md
+src
+yarn.lock
