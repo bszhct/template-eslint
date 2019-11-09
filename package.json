@@ -1,6 +1,6 @@
 {
   "name": "@bszhct/template-eslint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "模板脚手架的 eslint 依赖",
   "scripts": {
     "build": "rm -rf lib && cp -R src lib"
