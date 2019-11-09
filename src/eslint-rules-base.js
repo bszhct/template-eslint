@@ -46,7 +46,7 @@ module.exports = {
    *  }
    * }
    */
-  'class-methods-use-this': 'warn',
+  'class-methods-use-this': 'off',
   /**
    * 与 null 进行比较使用全等比较
    * 错误示例
