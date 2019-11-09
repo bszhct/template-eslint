@@ -30,4 +30,8 @@ module.exports = {
   'react/jsx-filename-extension': ['error', {
     extensions: ['.js', '.jsx', '.tsx'],
   }],
+  // jsx 元素不能使用扩展运算符
+  'react/jsx-props-no-spreading': 'off',
+  // state 一定要在 constructor 中定义
+  'react/state-in-constructor': 'off',
 }
